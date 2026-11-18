@@ -56,6 +56,20 @@
     <button><a href="telas/binario.php">Binario</a></button><br>
     <button><a href="telas/hexadecimal.php">Hexadecimal</a></button><br>
     <button><a href="telas/verificarPosiNegaZero.php">Verificar Sinal</a></button><br>
+    <button><a href="telas/compararNumeros.php">Comparar Números</a></button><br>
+    <button><a href="telas/maiorMenorTresNumeros.php">Maior Menor</a></button><br>
+    <button><a href="telas/bissexto.php">Bissexto</a></button><br>
+    <button><a href="telas/imc.php">Calcular IMC</a></button><br>
+    <button><a href="telas/votar.php">Votar</a></button><br>
+    <button><a href="telas/mediaTresBoletim.php">Boletim</a></button><br>
+    <button><a href="telas/intervaloDeNumeros.php">Intervalo de Números</a></button><br>
+    <button><a href="telas/classificarIdade.php">Classificar por Idade</a></button><br>
+    <button><a href="telas/tiposTriangulo.php">Classificar Triângulos</a></button><br>
+    <button><a href="telas/diaSemana.php">Dia Da Semana</a></button><br>
+    <button><a href="telas/conceitoNota.php">Notas Conceito</a></button><br>
+    <button><a href="telas/contarDe1AteNum.php">Contagem de 1 até numero</a></button><br>
+    <button><a href="telas/contagemRegresso.php">Contagem Regresiva</a></button><br>
+
 
 </body>
 </html>

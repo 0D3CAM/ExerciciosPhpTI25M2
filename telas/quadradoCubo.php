@@ -22,7 +22,7 @@
     <h1>Informe os valores que deseja multiplicar:</h1>
     <form method="POST">
         <label>Informe o primeiro número:</label>
-        <input type="number" id="primeiroNumero" name="primeiroNumero"/>
+        <input type="text" id="primeiroNumero" name="primeiroNumero"/>
         
 
         <button type="submit">Multiplicar
@@ -40,7 +40,7 @@
 
     <?php
             if(isset($_POST['primeiroNumero'])){
-    echo "O quadrado é: " .$quadrado ."";
+    echo "O quadrado é: " .$quadrado ."<br>";
     echo "" ." O cubo é: " .$cubo;
     }
     else{
