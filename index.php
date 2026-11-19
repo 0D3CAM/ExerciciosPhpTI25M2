@@ -69,6 +69,11 @@
     <button><a href="telas/conceitoNota.php">Notas Conceito</a></button><br>
     <button><a href="telas/contarDe1AteNum.php">Contagem de 1 até numero</a></button><br>
     <button><a href="telas/contagemRegresso.php">Contagem Regresiva</a></button><br>
+    <button><a href="telas/somar1AteN.php">Somar até N</a></button><br>
+    <button><a href="telas/multiplos.php">Multiplos Número</a></button><br>
+    <button><a href="telas/media8Notas.php">Media 8 Notas</a></button><br>
+    <button><a href="telas/mediaDeTemperaturas.php">Media temperaturas</a></button><br>
+    <button><a href="telas/somarImparesN.php">Somar N ímpares</a></button><br>
 
 
 </body>
